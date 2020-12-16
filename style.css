@@ -165,9 +165,7 @@ a.nav-link{
 
 #myachievement{
 	
-	background-size: cover;
-	position:absolute;
-	background-position: center;
+	
 	margin-top:100px;
     height: 100%;
 	display: flex;
