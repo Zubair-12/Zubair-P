@@ -49,7 +49,7 @@ header:hover{
 
 .logo img{
 	padding-top: 5px;
-	height: 50px;
+	height: 70px;
 	cursor: pointer;
 }
 
@@ -163,8 +163,10 @@ a.nav-link{
       projects
 ──────────────────*/
 
-#projects{
-	background: url('https://images.unsplash.com/photo-1544099858-75feeb57f01b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat;
+#myachievement{
+	background: url('security.jpg') no-repeat;
+	background-size: cover;
+	position:absolute;
 	background-position: center;
 	margin-top:100px;
     height: 100%;
@@ -175,10 +177,10 @@ a.nav-link{
 	text-align:center;
 	color: var(--main-fonts-color);
 }
-#projects h3{
+#myachievement h3{
     padding-top: 70px;
 }
-#projects p{
+#myachievement p{
 	font-family: var(--main-font-family);
 	font-size:1.2rem;
 	padding: 10px;
