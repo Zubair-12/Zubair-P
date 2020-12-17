@@ -18,7 +18,7 @@
   top: 0;
   left: 0;
   background-color: #111;
-  overflow-x: hidden;
+  overflow-x: show;
   transition: 0.5s;
   padding-top: 60px;
   position: fixed; /* Set the navbar to fixed position */
@@ -29,11 +29,11 @@
   </head>
     <body>
 	  <div id="main">
-            <button class="openbtn" > ☰ Home</button>  
+            <button class="openbtn" onclick="openNav()"> ☰ Home</button>  
       </div>
 <div id="mySidebar" class="sidebar">
 <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-
+   <a href="index.html"><i class="fas fa-qrcode"></i>Home</a>
   <a href="My Achievement.html"><i class="far fa-grin-beam"></i>My Achievement </a>
 <a href="My Article.html"><i class="fas fa-question-circle"></i>My Article</a>
 <a href="Contact.html"><i class="far fa-address-card"></i>Contact</a>
