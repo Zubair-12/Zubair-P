@@ -81,7 +81,7 @@ a.nav-link{
   top: 0;
   left: 0;
   background-color: #111;
-  overflow-x: show;
+  overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
   position: fixed; /* Set the navbar to fixed position */
