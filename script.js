@@ -8,7 +8,18 @@ $(window).on('scroll', function(){
 		$('header').removeClass('nav-show');
 	}
 	   
-})
+}
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+  document.getElementById("body-content").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+  document.getElementById("body-content").style.marginLeft = "0";
+}
 
 //hamburger
 const navSlide = () => {
