@@ -192,14 +192,12 @@ header:hover{
 #myachievement{
 	 
 	background-color: var(--main-header-background);
-	background-size: cover;
-	background-position:center;
-	margin-top:100px;
-        height: 150%;
+	margin: auto;
+        height: 600%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-    justify-content: center;
+        justify-content: center;
 	text-align:center;
 	color: var(--main-fonts-color);
 }
