@@ -14,16 +14,7 @@
 	scroll-behavior: smooth;
 }
 
-body{
-		color: black;
-    background-color: #F7DC6F ;
-        height: 100%;
-          padding: 20px;
-        font-family: Arial;
-        background-position: center;
-          background-repeat: no-repeat;
-          background-size: cover;
-	}
+
 
 /*────────────────── 
        header
