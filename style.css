@@ -52,7 +52,7 @@ header:hover{
   top: 0;
   left: 0;
   background-color: #111;
-  overflow-x: show;
+  overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
   position: fixed; /* Set the navbar to fixed position */
@@ -64,7 +64,7 @@ header:hover{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #white;
+  color: white;
   display: block;
   transition: 0.3s;
 }
