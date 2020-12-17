@@ -191,9 +191,11 @@ header:hover{
 
 #myachievement{
 	 
-	
+	background-color: var(--main-header-background);
+	background-size: cover;
+	background-position:center;
 	margin-top:100px;
-    height: 100%;
+        height: 100%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
