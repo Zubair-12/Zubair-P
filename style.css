@@ -310,6 +310,7 @@ a.nav-link{
 /*__________________
      My Article
 __________________*/
+#My Article{
 background-color: var(--main-header-background);
 	margin: auto;
         height: 600%;
@@ -319,6 +320,7 @@ background-color: var(--main-header-background);
         justify-content: center;
 	text-align:center;
 	color: var(--main-fonts-color);
+}
 /*────────────────── 
        footer
 ──────────────────*/
