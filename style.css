@@ -320,7 +320,7 @@ background-color: var(--main-header-background);
         justify-content: center;
 	text-align:center;
 	color: var(--main-fonts-color);
-	background-image: url("writing.png") ;
+	background-image: url("writing.png") no-repeat;
 }
 #myarticle h1{
     padding-top: 70px;
