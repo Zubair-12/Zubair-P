@@ -321,9 +321,6 @@ background-color: var(--main-header-background);
 	text-align:center;
 	color: var(--main-fonts-color);
 	background-image: url("writing.png") no-repeat;
-	background-size: cover;
-	background-position:center;
-        position: absolute;
 }
 #myarticle h1{
     padding-top: 70px;
