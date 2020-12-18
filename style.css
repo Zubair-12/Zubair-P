@@ -307,7 +307,18 @@ a.nav-link{
 	font-size:1.2rem;
 	font-family: var(--main-font-family);
 }
-
+/*__________________
+     My Article
+__________________*/
+background-color: var(--main-header-background);
+	margin: auto;
+        height: 600%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+        justify-content: center;
+	text-align:center;
+	color: var(--main-fonts-color);
 /*────────────────── 
        footer
 ──────────────────*/
