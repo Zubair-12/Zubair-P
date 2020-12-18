@@ -329,6 +329,10 @@ background-color: var(--main-header-background);
 	font-size:1.2rem;
 	padding: 10px;
 }
+body {
+ background-image: url("writing.png");
+ background-color: #cccccc;
+}
 /*────────────────── 
        footer
 ──────────────────*/
