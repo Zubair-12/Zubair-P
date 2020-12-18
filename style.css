@@ -320,9 +320,7 @@ background-color: var(--main-header-background);
         justify-content: center;
 	text-align:center;
 	color: var(--main-fonts-color);
-}
-#myarticle .filter{
-	background-image: url("writing.png");
+	background-image: url("writing.png") no-repeat;
 	background-size: cover;
 	background-position:center;
         position: absolute;
