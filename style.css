@@ -320,6 +320,7 @@ background-color: var(--main-header-background);
         justify-content: center;
 	text-align:center;
 	color: var(--main-fonts-color);
+	background-image: url("writing.png");
 }
 #myarticle h1{
     padding-top: 70px;
@@ -329,10 +330,7 @@ background-color: var(--main-header-background);
 	font-size:1.2rem;
 	padding: 10px;
 }
-body {
- background-image: url("writing.png");
- background-color: #cccccc;
-}
+
 /*────────────────── 
        footer
 ──────────────────*/
