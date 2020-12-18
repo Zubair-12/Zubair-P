@@ -324,11 +324,6 @@ background-color: var(--main-header-background);
 	background-size: cover;
 	background-position:center;
         position: absolute;
-        top: 0px;
-       bottom: 0;
-       left: 0;
-       right: 0;
-	opacity:.20;
 }
 #myarticle h1{
     padding-top: 70px;
