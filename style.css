@@ -310,7 +310,7 @@ a.nav-link{
 /*__________________
      My Article
 __________________*/
-#myarticle{
+#my article{
 background-color: var(--main-header-background);
 	margin: auto;
         height: 600%;
@@ -321,10 +321,10 @@ background-color: var(--main-header-background);
 	text-align:center;
 	color: var(--main-fonts-color);
 }
-#myarticle h1{
+#my article h1{
     padding-top: 70px;
 }
-#myarticle p{
+#my article p{
 	font-family: var(--main-font-family);
 	font-size:1.2rem;
 	padding: 10px;
